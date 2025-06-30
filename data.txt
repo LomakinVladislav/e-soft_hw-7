@@ -1,0 +1,10 @@
+An error isn't a big deal
+Lorem ipsum dolor sit amet,
+consectetur adipiscing elit.
+Hello world!
+This is a TEST message.
+hello there!
+The quick brown fox jumps over the lazy dog.
+Another HELLO example.
+Line with numbers: 12345
+End of file.
